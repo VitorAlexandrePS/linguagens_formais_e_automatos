@@ -292,18 +292,18 @@ Crie três pequenos exemplos:
 
 Para cada exemplo, apresente a classificação e a justificativa.
 
-enteiro valor;
-valor := 10;
+enteiro valor;  
+valor := 10;  
 Léxico, pois ‘inteiro’ está escrito de maneira errada.
 
-inteiro valor;
-valor := 5.5;
+inteiro valor;  
+valor := 5.5;  
 Sintático, pois ‘inteiro’ está recebendo um valor decimal.
 
 Programa de somar 2 no resultado final.
-real valor;
-real novoValor;
-novoValor := valor * 2;
+real valor;  
+real novoValor;  
+novoValor := valor * 2;  
 O programa está multiplicando por 2, e não somando 2 no resultado final. Ou seja, válido, mas com erro lógico.
 
 ---
