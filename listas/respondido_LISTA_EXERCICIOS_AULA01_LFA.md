@@ -317,4 +317,3 @@ Complete:
 - **Semântica** está relacionada ao significado e a validade dos elementos e das operações no programa.
 - **Erro lógico** ocorre quando o programa é executado sem erros, mas produz um resultado diferente do objetivo esperado.
 
-
